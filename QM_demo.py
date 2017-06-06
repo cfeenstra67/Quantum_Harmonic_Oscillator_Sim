@@ -250,6 +250,9 @@ class spfn_editor(wx.Frame):
         self.border_w=5
         self.line_w=w-self.border_w*2
         self.bkg=wx.Panel(self)
+        box=wx.BoxSizer()
+        box.Add(self.bkg)
+        self.SetSizer(box)
         self.vbox=wx.BoxSizer(wx.VERTICAL)
         self.bkg.SetSizer(self.vbox)
         fields=('Fn:','For:','From:','To:')
@@ -258,6 +261,7 @@ class spfn_editor(wx.Frame):
         go=wx.Button(self.bkg,size=(self.line_w,20),label='Go')
         go.Bind(wx.EVT_BUTTON,self.pressed_go)
         self.vbox.Add(go,0,wx.ALL,border=self.border_w)
+        self.Fit()
     def add_line(self, text):
         prop=.3
         h=20
