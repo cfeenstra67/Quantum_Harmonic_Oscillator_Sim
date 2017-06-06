@@ -71,7 +71,7 @@ class plot_panel(wx.Panel):
         self.ax.set_xlim(*self.x_ran)
         self.ax.set_ylim(0,self.e_lvls)
         self.super_ax.set_xlim(*self.x_ran)
-        self.x=np.arange(*self.x_ran,self.dx)
+        self.x=np.arange(*self.x_ran,step=self.dx)
         
         self.lvls=[]
         self.e_rl_plots=[]
