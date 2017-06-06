@@ -1,0 +1,71 @@
+('C:\\Users\\Cam Feenstra\\Documents\\QM_demo\\build\\QHO_Demo\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('out00-PYZ.pyz',
+   'C:\\Users\\Cam '
+   'Feenstra\\Documents\\QM_demo\\build\\QHO_Demo\\out00-PYZ.pyz',
+   'PYZ'),
+  ('struct', 'c:\\program files\\anaconda3\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_traitlets',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_traitlets.py',
+   'PYSOURCE'),
+  ('pyi_rth_qt5',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_qt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_qt5plugins',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_qt5plugins.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_mpldata',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_mpldata.py',
+   'PYSOURCE'),
+  ('QHO_Demo',
+   'C:\\Users\\Cam Feenstra\\Documents\\QM_demo\\QHO_Demo.py',
+   'PYSOURCE'),
+  ('QHO_Demo.exe.manifest',
+   'C:\\Users\\Cam '
+   'Feenstra\\Documents\\QM_demo\\build\\QHO_Demo\\QHO_Demo.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
