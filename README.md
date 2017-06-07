@@ -7,7 +7,7 @@ The second is to run the python script directly.  In order to do this, you must 
 1. Create a virtual environment using ```virtualenv <name>```.  For Mac: use ```venv <name>```, you won't be able to run the script properly otherwise.
 2.  Activate the virtual environment: ```source <virtualenv name>/bin/activate```
 3.  Install the required packages: ```pip3 install -r requirements.txt```
-4.  Run the script! ```python3 QHO_Demo.py``` (or, if you'd like to run it in the background and continue using your command line: ```python3 QM_Demo.py &```
+4.  Run the script! ```python3 QHO_Demo.py``` (or, if you'd like to run it in the background and continue using your command line: ```python3 QM_Demo.py &```)
 5.  When you're done, deactivate the virtual environment using simply ```deactivate```.
 
 If you don't mind having the packages installed on your machine for future use, just do 3&4.
