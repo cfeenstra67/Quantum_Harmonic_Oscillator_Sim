@@ -3,9 +3,9 @@
 import wx
 from wx.lib.scrolledpanel import ScrolledPanel
 
-#import matplotlib as mpl
+import matplotlib as mpl
 import matplotlib.gridspec as gridspec
-#mpl.use('WXAgg')
+mpl.use('WXAgg')
 from matplotlib.backends.backend_wxagg import FigureCanvasWxAgg as FigureCanvas
 from matplotlib.backends.backend_wx import NavigationToolbar2Wx
 from matplotlib.figure import Figure
